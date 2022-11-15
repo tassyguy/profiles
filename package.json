@@ -18,7 +18,23 @@
       {
         "command": "profiles.helloWorld",
         "title": "Hello World"
-      }
+      },
+      {
+        "command": "profiles.createNewProfile",
+        "title": "Create New Profile"
+      },
+      {
+        "command": "profiles.setProfile",
+        "title": "Set Profile"
+      },
+      {
+        "command": "profiles.editProfile",
+        "title": "Edit Profile"
+      },
+      {
+        "command": "profiles.editCurrentProfile",
+        "title": "Edit Current Profile"
+      },
     ]
   },
   "scripts": {

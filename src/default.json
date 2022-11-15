@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "workbench.preferredLightColorTheme": "Default Light",
+    "workbench.preferredDarkColorTheme": "Default Dark"
+}
